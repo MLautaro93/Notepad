@@ -1,6 +1,6 @@
 # Notepad
 
-Text editor for creating, opening, saving and editing documents
+Text editor for creating, opening, saving and editing documents.
 
 It displays a menu bar which contains:
 - A File menu with options like New, Open, Save, Save As, and Exit.
