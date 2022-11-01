@@ -3,8 +3,6 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog, filedialog
 import os
 
-import click
-
 # Create root widget
 root = tk.Tk()
 root.title('Notepad')
